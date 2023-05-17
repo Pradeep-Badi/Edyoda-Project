@@ -1,0 +1,19 @@
+{
+  "Teacher": [
+    {
+      "name": "Pradeep",
+      "email": "pradeepbadi2000@gmail.com",
+      "phone": "7411403782",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Pb",
+      "email": "Pb@gmail.com",
+      "phone": "744561233",
+      "password": "456",
+      "id": 2
+    }
+    
+  ]
+}
